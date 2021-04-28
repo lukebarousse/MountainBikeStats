@@ -1,6 +1,6 @@
 # Bike Trail & Jump Counter
 
-### [Check out my YouTube video on this code](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ)
+### [Check out my YouTube video on this code](https://youtu.be/DNJfUPfSZpY)
 
 References: [Using Python to Explore Strava Activity Data by Matt Ambrogi](https://towardsdatascience.com/using-the-strava-api-and-pandas-to-explore-your-activity-data-d94901d9bfde)
 
